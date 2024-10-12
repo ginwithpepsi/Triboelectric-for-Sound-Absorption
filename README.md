@@ -20,11 +20,11 @@ Raw data and code used in our paper _**Mechanism of airborne sound absorption th
 
 - [x] **Fig. 5a** Distribution of NRC of acoustic absorbers with triboelectric effect. The dots represent NRC values of acoustic absorber samples with different types and varying absorber thickness. The curve on the sub-axis of the vertical coordinate represents the distribution of NRC values. Despite reduced thickness, triboelectric-enabled absorbers surpass acoustic absorbers made of single materials, composite materials, or layered structures. 
 - [x] **Fig. 5b** NRCs of acoustic absorbers with triboelectric effect outperforms other groups without.
-- [ ] **Fig. 5c** Sound absorption coefficient of PU-based TEC foam shows higher sound absorption over commercial counterpart.
-- [ ] **Fig. 5d** Superior performance of PU-based TEC foam in comparison with a variety of commonly used commercial products.
+- [x] **Fig. 5c** Sound absorption coefficient of PU-based TEC foam shows higher sound absorption over commercial counterpart.
+- [x] **Fig. 5d** Superior performance of PU-based TEC foam in comparison with a variety of commonly used commercial products.
 
 
 ## Code for figures in the manuscript:
- - [ ] **Fig. 2b** Geometric representation of adjacent fibers with a projected overlapping area S and intersecting angle β. Probability distribution of β from the Monte Carlo simulation, showing a Gaussian distribution β~(π/2,33.6).
+ - [x] **Fig. 2b** Geometric representation of adjacent fibers with a projected overlapping area S and intersecting angle β. Probability distribution of β from the Monte Carlo simulation, showing a Gaussian distribution β~(π/2,33.6).
 
- - [ ] **Fig. 5a** Distribution of NRC of acoustic absorbers with triboelectric effect. The dots represent NRC values of acoustic absorber samples with different types and varying absorber thickness. The curve on the sub-axis of the vertical coordinate represents the distribution of NRC values. Despite reduced thickness, triboelectric-enabled absorbers surpass acoustic absorbers made of single materials, composite materials, or layered structures. 
+ - [x] **Fig. 5a** Distribution of NRC of acoustic absorbers with triboelectric effect. The dots represent NRC values of acoustic absorber samples with different types and varying absorber thickness. The curve on the sub-axis of the vertical coordinate represents the distribution of NRC values. Despite reduced thickness, triboelectric-enabled absorbers surpass acoustic absorbers made of single materials, composite materials, or layered structures. 
