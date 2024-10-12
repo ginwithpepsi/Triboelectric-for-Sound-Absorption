@@ -11,10 +11,12 @@ Raw data and code used in our paper _**Mechanism of airborne sound absorption th
 - [x] **Fig. 3l** Peak sound absorption enhancement at 1170 Hz due to triboelectric effect, significant enhancement from 1120-1290 Hz.
 - [x] **Fig. 3m** NRC in relation to conductivity follows a similar trend as the sound absorption coefficient. The fitted curves are hyperbolic, where for 1170 Hz is y=(0.784 x)/(2.648×10^(-7)+x), and for 1600 Hz the fit is y=(0.953 x)/(1.275×10^(-7)+x).
 
-- [ ] **Fig. 4b** Comparison of noise reduction coefficient (NRC) for TECs made of PP/PVDF, GW/PVDF, and PU/PVDF, with and without ECE, concentration of the conducting elements satisfies the percolation threshold at 5 wt.% in the final composite material.
-- [ ] **Fig. 4c** Prominent improvement in NRC among groups. The error bars represent standard deviations over at least three samples. Sound absorption coefficients of: **d** TEC foams made of PP/PVDF/ECE forming triboelectric dissipators, in comparison with PP/PVDF and PP.
-- [ ] **Fig. 4e** TEC foams made of GW/PVDF/ECE forming triboelectric dissipators, in comparison with GW/PVDF and GW.
-- [ ] **Fig. 4f** TEC foams made of PU/PVDF/ECE forming triboelectric dissipators, in comparison with PU/PVDF and PU. 
+- [x] **Fig. 4b** Comparison of noise reduction coefficient (NRC) for TECs made of PP/PVDF, GW/PVDF, and PU/PVDF, with and without ECE, concentration of the conducting elements satisfies the percolation threshold at 5 wt.% in the final composite material.
+- [x] **Fig. 4c** Prominent improvement in NRC among groups. The error bars represent standard deviations over at least three samples.
+- Sound absorption coefficients of:
+ - [x] **Fig. 4d** TEC foams made of PP/PVDF/ECE forming triboelectric dissipators, in comparison with PP/PVDF and PP.
+ - [x] **Fig. 4e** TEC foams made of GW/PVDF/ECE forming triboelectric dissipators, in comparison with GW/PVDF and GW.
+ - [x] **Fig. 4f** TEC foams made of PU/PVDF/ECE forming triboelectric dissipators, in comparison with PU/PVDF and PU. 
 
 - [x] **Fig. 5a** Distribution of NRC of acoustic absorbers with triboelectric effect. The dots represent NRC values of acoustic absorber samples with different types and varying absorber thickness. The curve on the sub-axis of the vertical coordinate represents the distribution of NRC values. Despite reduced thickness, triboelectric-enabled absorbers surpass acoustic absorbers made of single materials, composite materials, or layered structures. 
 - [x] **Fig. 5b** NRCs of acoustic absorbers with triboelectric effect outperforms other groups without.
