@@ -1,7 +1,11 @@
-# Triboelectric-for-Sound-Absorption
-Raw data and code used in our paper _**Mechanism of airborne sound absorption through triboelectric effect for noise mitigation**_
+# README
+Raw data and code used in our paper: _**Mechanism of airborne sound absorption through triboelectric effect for noise mitigation**_
 
-## Raw data for figures in the main manuscript:
+🔗 Paper link: [here](https://doi.org/10.1038/s41467-024-53847-5)
+
+🖋️ To cite: Li, J., Yousry, Y.M., Lim, P.C. et al. Mechanism of airborne sound absorption through triboelectric effect for noise mitigation. Nat Commun 15, 9408 (2024). 
+
+### Raw data for figures in the main manuscript:
 
 - [x] **Fig. 3d** Effect of ECE concentration on the dielectric constant of fibrous TEC foams with corresponding polynomial fit curve y=-0.07 x^2+12.17x+37.80, r2 > 0.90.
 - [x] **Fig. 3e** Effect of ECE concentration on the dielectric loss of fibrous TEC foams. The zoomed view shows the ECE weight ratio range within 8%, where the linear fit is y = 0.013x+ 0.021, with a p-value less that 0.01%.
@@ -24,7 +28,7 @@ Raw data and code used in our paper _**Mechanism of airborne sound absorption th
 - [x] **Fig. 5d** Superior performance of PU-based TEC foam in comparison with a variety of commonly used commercial products.
 
 
-## Code for figures in the manuscript:
+### Code for figures in the manuscript:
  - [x] **Fig. 2b** Geometric representation of adjacent fibers with a projected overlapping area S and intersecting angle β. Probability distribution of β from the Monte Carlo simulation, showing a Gaussian distribution β~(π/2,33.6).
 
  - [x] **Fig. 5a** Distribution of NRC of acoustic absorbers with triboelectric effect. The dots represent NRC values of acoustic absorber samples with different types and varying absorber thickness. The curve on the sub-axis of the vertical coordinate represents the distribution of NRC values. Despite reduced thickness, triboelectric-enabled absorbers surpass acoustic absorbers made of single materials, composite materials, or layered structures. 
